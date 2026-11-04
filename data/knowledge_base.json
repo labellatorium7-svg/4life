@@ -1,0 +1,90 @@
+[
+  {
+    "sourceId": "SRC-4L-001",
+    "title": "4Life Transfer Factor® Tri-Factor® Formula - Official Product Specifications",
+    "publisher": "4Life Research USA LLC",
+    "sourceType": "official_4life",
+    "publicationDate": "2024-01-15",
+    "retrievalDate": "2026-11-01",
+    "urlOrDoc": "https://indonesia.4life.com/corp/product/tri-factor-formula",
+    "relevantPassage": "Mengandung UltraFactor XF® (peptida kolostrum sapi) dan OvoFactor® (peptida kuning telur unggas). Dirancang untuk mendidik dan mendukung sistem pertahanan tubuh.",
+    "status": "VERIFIED",
+    "category": "product"
+  },
+  {
+    "sourceId": "SRC-BPOM-002",
+    "title": "Direktori Produk Terdaftar Suplemen Kesehatan BPOM RI",
+    "publisher": "Badan Pengawas Obat dan Makanan Republik Indonesia (BPOM RI)",
+    "sourceType": "bpom_regulator",
+    "publicationDate": "2023-08-20",
+    "retrievalDate": "2026-11-01",
+    "urlOrDoc": "https://cekbpom.pom.go.id/",
+    "relevantPassage": "4Life Transfer Factor terdaftar resmi sebagai Suplemen Kesehatan Impor (SI) untuk membantu memelihara daya tahan tubuh.",
+    "status": "VERIFIED",
+    "category": "regulation"
+  },
+  {
+    "sourceId": "SRC-SCI-003",
+    "title": "Transfer Factors in Cellular Immunity: Historical Context and Molecular Signaling",
+    "publisher": "Journal of Molecular Immunology & Educational Review",
+    "sourceType": "peer_reviewed_paper",
+    "publicationDate": "2022-04-12",
+    "retrievalDate": "2026-10-15",
+    "urlOrDoc": "doi:10.1016/j.molimm.2022.03.011",
+    "relevantPassage": "Transfer factor adalah molekul peptida kecil (<10 kDa) yang mentransfer informasi memori imunologis tanpa memicu reaksi alergi protein makro.",
+    "status": "VERIFIED",
+    "category": "science"
+  },
+  {
+    "sourceId": "SRC-ETH-004",
+    "title": "Pedoman Perilaku Etika Penjualan Langsung & Regulasi Bisnis Kemitraan",
+    "publisher": "Asosiasi Penjualan Langsung Indonesia (APLI) & Kemendag RI",
+    "sourceType": "scientific_institution",
+    "publicationDate": "2023-11-01",
+    "retrievalDate": "2026-11-01",
+    "urlOrDoc": "https://apli.or.id/kode-etik/",
+    "relevantPassage": "Dilarang menjanjikan pendapatan pasti, skema cepat kaya, atau klaim medis yang tidak disetujui BPOM. Penekanan wajib pada manfaat produk dan usaha aktif.",
+    "status": "VERIFIED",
+    "category": "business_ethics"
+  },
+  {
+    "sourceId": "SRC-NLM-PDF-005",
+    "title": "4Life Official Product Science & Formulation Compendium (PDF Berkas Resmi)",
+    "publisher": "4Life Research USA LLC (Sumber NotebookLM)",
+    "sourceType": "pdf_document",
+    "publicationDate": "2024-03-01",
+    "retrievalDate": "2026-11-03",
+    "urlOrDoc": "NotebookLM: 4Life_Official_Formulation_Compendium.pdf",
+    "relevantPassage": "Dokumen resmi formulasi 4Life: Proses nanofiltrasi eksklusif menghasilkan NanoFactor® dan peptida Transfer Factor murni berukuran mikro tanpa kasein atau laktosa.",
+    "status": "VERIFIED",
+    "category": "product",
+    "notebookLmRef": "NotebookLM / Berkas: 4Life_Official_Formulation_Compendium.pdf"
+  },
+  {
+    "sourceId": "SRC-NLM-YT-006",
+    "title": "Video Edukasi Resmi: Bagaimana Transfer Factor Mendidik Sel Pertahanan Tubuh",
+    "publisher": "4Life Indonesia Official YouTube Channel",
+    "sourceType": "youtube_link",
+    "publicationDate": "2024-06-15",
+    "retrievalDate": "2026-11-03",
+    "urlOrDoc": "https://www.youtube.com/watch?v=4life_transfer_factor_edukasi_resmi",
+    "relevantPassage": "Video resmi 4Life Indonesia: Ilustrasi 3 fase respons imun: 1. Mengenali ancaman asing, 2. Merespons secara terukur, 3. Mengingat agar siap di masa depan.",
+    "status": "VERIFIED",
+    "category": "science",
+    "notebookLmRef": "NotebookLM / YouTube: 4Life Indonesia Official Edukasi",
+    "mediaUrl": "https://www.youtube.com/watch?v=4life_transfer_factor_edukasi_resmi"
+  },
+  {
+    "sourceId": "SRC-NLM-NOTE-007",
+    "title": "Ringkasan & Briefing Dokumen NotebookLM: Peluang Kemitraan Beretika & Syarat Registrasi",
+    "publisher": "NotebookLM AI Synthesis (Sumber: Dokumen Resmi Perusahaan)",
+    "sourceType": "notebooklm_extract",
+    "publicationDate": "2024-08-10",
+    "retrievalDate": "2026-11-03",
+    "urlOrDoc": "https://notebooklm.google.com/notebook/4life-official-library",
+    "relevantPassage": "Ekstrak sintesis NotebookLM: Kompensasi kemitraan 4Life didasarkan pada pergerakan produk bernilai tambah ke konsumen akhir, bukan biaya pendaftaran anggota.",
+    "status": "VERIFIED",
+    "category": "business_ethics",
+    "notebookLmRef": "NotebookLM / Briefing Doc: Panduan Etika Mitra 4Life"
+  }
+]

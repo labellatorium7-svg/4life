@@ -1,0 +1,6 @@
+{
+  "name": "4Life AI Content Factory",
+  "description": "Intelligent Content Production System for 4Life product education, health education, and ethical business opportunity content, directed by Kepala Pabrik 4Life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
